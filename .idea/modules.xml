@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Allure.iml" filepath="$PROJECT_DIR$/.idea/Allure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Report_samples/Allure_Sample/Allure_Sample.iml" filepath="$PROJECT_DIR$/Report_samples/Allure_Sample/Allure_Sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Report_samples/ReportPortal_Sample/ReportPortal_Sample.iml" filepath="$PROJECT_DIR$/Report_samples/ReportPortal_Sample/ReportPortal_Sample.iml" />
+    </modules>
+  </component>
+</project>
